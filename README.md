@@ -17,18 +17,41 @@
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-   <img align="center" alt="Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
   
+##
+
+### Projetos
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <h3>Água</h3>
+    <a href="https://agua-eight.vercel.app" target="_blank">
+      <img src="https://agua-eight.vercel.app/assets/IntroAgua-C-rbznzd.png" alt="Prévia do Projeto Água" style="width:100%;"/>
+    </a>
+    <p>Este projeto visa orientar de uma forma mais interativa através da internet e melhorar a gestão de recursos hídricos...</p>
+  </div>
+  <div style="flex: 1;">
+    <h3>Resíduos</h3>
+    <a href="https://reciclagem-ten.vercel.app" target="_blank">
+      <img src="https://reciclagem-ten.vercel.app/assets/IntroResiduos-V1obG95g.png" alt="Prévia do Projeto Resíduos" style="width:100%;"/>
+    </a>
+    <p>Este projeto visa orientar de uma forma mais interativa através da internet e melhorar a gestão de resíduos sólidos...</p>
+  </div>
+</div>
+
+
+
 ##
   
 ### Redes Sociais 
 <div>
-<a href="https://www.instagram.com/felipebarroso299/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:josealmironettto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/felipe-barroso-b4052021b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.instagram.com/felipebarroso299/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:josealmironettto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-barroso-b4052021b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 ##
   
   <h3><p align="center">Total de visitas no perfil:</p>
