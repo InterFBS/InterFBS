@@ -22,29 +22,6 @@
 </div>
   
 ##
-
-### Projetos
-
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    <h3>Água</h3>
-    <a href="https://agua-eight.vercel.app" target="_blank">
-      <img src="https://agua-eight.vercel.app/assets/IntroAgua-C-rbznzd.png" alt="Prévia do Projeto Água" style="width:100%;"/>
-    </a>
-    <p>Este projeto visa orientar de uma forma mais interativa através da internet e melhorar a gestão de recursos hídricos...</p>
-  </div>
-  <div style="flex: 1;">
-    <h3>Resíduos</h3>
-    <a href="https://reciclagem-ten.vercel.app" target="_blank">
-      <img src="https://reciclagem-ten.vercel.app/assets/IntroResiduos-V1obG95g.png" alt="Prévia do Projeto Resíduos" style="width:100%;"/>
-    </a>
-    <p>Este projeto visa orientar de uma forma mais interativa através da internet e melhorar a gestão de resíduos sólidos...</p>
-  </div>
-</div>
-
-
-
-##
   
 ### Redes Sociais 
 <div>
